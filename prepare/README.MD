@@ -10,4 +10,4 @@
 ## /Users/yanxinzhou/course/kaggle/serverrun/mxx/example/ssd/train.py
 - rec_path
 - gpu_nums
-- the patht
+- the path
