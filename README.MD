@@ -1,16 +1,6 @@
-## turn csv to xml
+# Demo of Deep Learning Model result
+2 deep learning projects on healthcare data.
 
-/prepare/reformat
-
-
-
-## link dicom with xml
-/prepare/experti_test
-
-## turn dicom to rec
-
-/mxx1/tools/im2rec
-
-##
-Please download the data and redo the process to understance the method.
-
+## Demo SSD result on Pneumonia Detection 2018.3
+## Demo Mask_Rcnn on Whole Heart Segmentation 2019.2 with MAP 0.84
+## Demo Mask_Rcnn on CTEPH lesion detection 2019.3
