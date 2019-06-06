@@ -1,7 +1,7 @@
 # Demo of Deep Learning Model result
 2 deep learning projects on healthcare data.
 
-## Demo SSD result on Pneumonia Detection 2018.3
+## Demo SSD result on Pneumonia Detection 2018.10
 The RSNA competion allowed me to work on pneumonia x-ray image to detect lesions. The model was built on the mxnet platform.  
 <img src="https://github.com/FreyYann/RSNA-competion/blob/master/demo_ssd/01dc817c-3cfa-49fe-8662-518edc30652a.jpg?raw=true" alt="SSD model"
 	title="SSD model" width="300" height="300" />
